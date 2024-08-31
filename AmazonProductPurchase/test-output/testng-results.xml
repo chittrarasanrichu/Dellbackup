@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-05-11T23:05:38 IST" name="Suite" finished-at="2023-05-11T23:07:51 IST" duration-ms="133882">
+    <groups>
+    </groups>
+    <test started-at="2023-05-11T23:05:38 IST" name="Test1" finished-at="2023-05-11T23:07:51 IST" duration-ms="133882">
+      <class name="amazonWeb.AmazonLoginTest">
+        <test-method is-config="true" signature="SetUp()[pri:0, instance:amazonWeb.AmazonLoginTest@3c419631]" started-at="2023-05-11T23:05:38 IST" name="SetUp" finished-at="2023-05-11T23:05:52 IST" duration-ms="14651" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method signature="LoginPage()[pri:0, instance:amazonWeb.AmazonLoginTest@3c419631]" started-at="2023-05-11T23:06:04 IST" name="LoginPage" finished-at="2023-05-11T23:06:09 IST" duration-ms="5531" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginPage -->
+        <test-method signature="MiPhoneSearch()[pri:0, instance:amazonWeb.AmazonLoginTest@3c419631]" started-at="2023-05-11T23:06:09 IST" name="MiPhoneSearch" finished-at="2023-05-11T23:07:32 IST" duration-ms="83266" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MiPhoneSearch -->
+      </class> <!-- amazonWeb.AmazonLoginTest -->
+      <class name="amazonWeb.SearchPhoneTest">
+        <test-method is-config="true" signature="SetUp()[pri:0, instance:amazonWeb.SearchPhoneTest@3e92efc3]" started-at="2023-05-11T23:05:52 IST" name="SetUp" finished-at="2023-05-11T23:06:04 IST" duration-ms="11401" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method signature="SearchPhone()[pri:0, instance:amazonWeb.SearchPhoneTest@3e92efc3]" started-at="2023-05-11T23:07:33 IST" name="SearchPhone" finished-at="2023-05-11T23:07:51 IST" duration-ms="18954" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SearchPhone -->
+      </class> <!-- amazonWeb.SearchPhoneTest -->
+    </test> <!-- Test1 -->
+  </suite> <!-- Suite -->
+</testng-results>
